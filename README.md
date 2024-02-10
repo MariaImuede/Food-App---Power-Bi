@@ -1,6 +1,7 @@
 
 # Food App Trend Analysis
  
+Presentation:  https://www.linkedin.com/posts/maria-imuede-a7230152_powerbi-activity-7108615476607377408-acwI?utm_source=share&utm_medium=member_desktop
 
 ![food app](https://github.com/MariaImuede/Power-Bi/assets/159175444/0f3770b6-dfed-4bea-9b1d-d978d280f097)
 
