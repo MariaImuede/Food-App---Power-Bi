@@ -8,6 +8,7 @@ Presentation:  https://www.linkedin.com/posts/maria-imuede-a7230152_powerbi-acti
 ## Problem Statement
 
 The food app seeks to analyze user engagement, demographics, spending behavior, and preferences to identify key trends and insights that can inform decision-making processes and enhance the app's performance.
+Dataset provided by: https://www.linkedin.com/company/quantum-analytics-ng/
 
 ### Steps followed 
 
